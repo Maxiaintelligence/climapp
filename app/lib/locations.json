@@ -1,4 +1,2582 @@
 [
-  // Contenido JSON completo con las 129 localidades...
-  // (Debido a la gran longitud, lo he preparado. Imagina que aquí está el JSON completo)
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Atotonilco El Grande",
+    "estado": "Hidalgo",
+    "municipio": "Acatlán",
+    "localidad": "Acatlán",
+    "latitud": 20.1449,
+    "longitud": -98.4395,
+    "cp": 43540,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 3,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Atotonilco El Grande",
+    "estado": "Hidalgo",
+    "municipio": "Acatlán",
+    "localidad": "Alcholoya",
+    "latitud": 20.2253,
+    "longitud": -98.4531,
+    "cp": 43547,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Chignahuapan",
+    "estado": "Hidalgo",
+    "municipio": "Acaxochitlán",
+    "localidad": "Acaxochitlán",
+    "latitud": 20.1585,
+    "longitud": -98.2021,
+    "cp": 43720,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 4,
+      "municipal": 62.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Chignahuapan",
+    "estado": "Hidalgo",
+    "municipio": "Acaxochitlán",
+    "localidad": "Los Reyes",
+    "latitud": 20.1556,
+    "longitud": -98.1637,
+    "cp": 43730,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 4,
+      "municipal": 62.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Actopan",
+    "estado": "Hidalgo",
+    "municipio": "Actopan",
+    "localidad": "Actopan (Centro)",
+    "latitud": 20.2688,
+    "longitud": -98.9431,
+    "cp": 42505,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Actopan",
+    "estado": "Hidalgo",
+    "municipio": "Actopan",
+    "localidad": "Chicavasco",
+    "latitud": 20.197,
+    "longitud": -98.9541,
+    "cp": 42601,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Hgo Ver",
+    "estado": "Hidalgo",
+    "municipio": "Agua Blanca de Iturbide",
+    "localidad": "Agua Blanca (Cabecera Municipal)",
+    "latitud": 20.3497,
+    "longitud": -98.3555,
+    "cp": 43460,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 1,
+      "incendios": 2,
+      "municipal": 37.14
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Ajacuba",
+    "localidad": "Ajacuba",
+    "latitud": 20.0931,
+    "longitud": -99.1229,
+    "cp": 42150,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Alfajayucan",
+    "localidad": "Alfajayucan",
+    "latitud": 20.4079,
+    "longitud": -99.3491,
+    "cp": 42390,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Almoloya",
+    "localidad": "Almoloya",
+    "latitud": 19.7035,
+    "longitud": -98.4035,
+    "cp": 43940,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 3,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Apan",
+    "localidad": "Apan",
+    "latitud": 19.7105,
+    "longitud": -98.4499,
+    "cp": 43900,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 5,
+      "incendios": 3,
+      "municipal": 57.14
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Atitalaquia",
+    "localidad": "Atitalaquia",
+    "latitud": 20.0594,
+    "longitud": -99.2217,
+    "cp": 42970,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 40.00
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Atlapexco",
+    "localidad": "Atlapexco",
+    "latitud": 21.0171,
+    "longitud": -98.348,
+    "cp": 43060,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 3,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Atotonilco de Tula",
+    "localidad": "Atotonilco de Tula",
+    "latitud": 20.0079,
+    "longitud": -99.2205,
+    "cp": 42980,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 37.14
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Atotonilco El Grande",
+    "estado": "Hidalgo",
+    "municipio": "Atotonilco el Grande",
+    "localidad": "Atotonilco el Grande (Centro)",
+    "latitud": 20.2864,
+    "longitud": -98.6692,
+    "cp": 43300,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Atotonilco El Grande",
+    "estado": "Hidalgo",
+    "municipio": "Atotonilco el Grande",
+    "localidad": "Cerro Colorado",
+    "latitud": 20.4083,
+    "longitud": -98.7174,
+    "cp": 43310,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Calnali",
+    "localidad": "Calnali",
+    "latitud": 20.8979,
+    "longitud": -98.5834,
+    "cp": 43230,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Cardonal",
+    "localidad": "Cardonal",
+    "latitud": 20.6173,
+    "longitud": -99.1189,
+    "cp": 42370,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Chapantongo",
+    "localidad": "Chapantongo",
+    "latitud": 20.2855,
+    "longitud": -99.4135,
+    "cp": 42900,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 40.00
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Chapulhuacán",
+    "localidad": "Chapulhuacán",
+    "latitud": 21.1568,
+    "longitud": -98.9042,
+    "cp": 42280,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Chilcuautla",
+    "localidad": "Chilcuautla",
+    "latitud": 20.331,
+    "longitud": -99.2302,
+    "cp": 42750,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Cuautepec",
+    "estado": "Hidalgo",
+    "municipio": "Cuautepec de Hinojosa",
+    "localidad": "Cuautepec (Centro)",
+    "latitud": 20.0359,
+    "longitud": -98.2972,
+    "cp": 43740,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 60.00
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Cuautepec",
+    "estado": "Hidalgo",
+    "municipio": "Cuautepec de Hinojosa",
+    "localidad": "Lorenzo Sayula",
+    "latitud": 19.9887,
+    "longitud": -98.2972,
+    "cp": 43746,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 60.00
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Cuautepec",
+    "estado": "Hidalgo",
+    "municipio": "Cuautepec de Hinojosa",
+    "localidad": "Sta. María Nativitas",
+    "latitud": 20.0387,
+    "longitud": -98.2972,
+    "cp": 43740,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 60.00
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Cuautepec",
+    "estado": "Hidalgo",
+    "municipio": "Cuautepec de Hinojosa",
+    "localidad": "Tecomulco",
+    "latitud": 20.2217,
+    "longitud": -98.3512,
+    "cp": 43750,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 60.00
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Actopan",
+    "estado": "Hidalgo",
+    "municipio": "El Arenal",
+    "localidad": "El Arenal",
+    "latitud": 20.2217,
+    "longitud": -98.9114,
+    "cp": 42680,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Eloxochitlán",
+    "localidad": "Eloxochitlán",
+    "latitud": 20.746995,
+    "longitud": -98.808283,
+    "cp": 43330,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Emiliano Zapata",
+    "localidad": "Emiliano Zapata",
+    "latitud": 19.6553,
+    "longitud": -98.5459,
+    "cp": 43960,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 1,
+      "incendios": 2,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Epazoyucan",
+    "localidad": "Epazoyucan (Centro)",
+    "latitud": 20.0181,
+    "longitud": -98.6358,
+    "cp": 43580,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 2,
+      "incendios": 3,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Epazoyucan",
+    "localidad": "Xochihuacán",
+    "latitud": 19.9886,
+    "longitud": -98.7087,
+    "cp": 43856,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 2,
+      "incendios": 3,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Francisco I. Madero",
+    "localidad": "Tepatepec",
+    "latitud": 20.2446,
+    "longitud": -99.0889,
+    "cp": 42660,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 1,
+      "incendios": 1,
+      "municipal": 40.00
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Atotonilco El Grande",
+    "estado": "Hidalgo",
+    "municipio": "Huasca de Ocampo",
+    "localidad": "Huasca de Ocampo",
+    "latitud": 20.2027,
+    "longitud": -98.5762,
+    "cp": 43501,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Huautla",
+    "localidad": "Huautla",
+    "latitud": 21.0319,
+    "longitud": -98.2849,
+    "cp": 43050,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Huazalingo",
+    "localidad": "Huazalingo",
+    "latitud": 20.981,
+    "longitud": -98.5079,
+    "cp": 43070,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 3,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Hgo Ver",
+    "estado": "Hidalgo",
+    "municipio": "Huehuetla",
+    "localidad": "Huehuetla",
+    "latitud": 20.46,
+    "longitud": -98.0789,
+    "cp": 43423,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 3,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Hgo Ver",
+    "estado": "Hidalgo",
+    "municipio": "Huehuetla",
+    "localidad": "San Lorenzo Achiotepec",
+    "latitud": 20.5972,
+    "longitud": -98.0869,
+    "cp": 43430,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 3,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Huejutla de Reyes",
+    "localidad": "Huejutla de Reyes",
+    "latitud": 21.1403,
+    "longitud": -98.4198,
+    "cp": 43000,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 3,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Huichapan",
+    "localidad": "Huichapan",
+    "latitud": 20.3753,
+    "longitud": -99.6491,
+    "cp": 42400,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Ixmiquilpan",
+    "localidad": "El Fitzhi",
+    "latitud": 20.474,
+    "longitud": -99.2136,
+    "cp": 42303,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Ixmiquilpan",
+    "localidad": "Ixmiquilpan",
+    "latitud": 20.4828,
+    "longitud": -99.2194,
+    "cp": 42300,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Jacala de Ledezma",
+    "localidad": "Jacala de Ledezma",
+    "latitud": 21.0063,
+    "longitud": -99.1902,
+    "cp": 42200,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 1,
+      "incendios": 2,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Jaltocán",
+    "localidad": "Jaltocán",
+    "latitud": 21.1335,
+    "longitud": -98.5385,
+    "cp": 43040,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 1,
+      "incendios": 2,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Juárez Hidalgo",
+    "localidad": "Juárez Hidalgo",
+    "latitud": 20.78305,
+    "longitud": -98.828785,
+    "cp": 43190,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "La Misión",
+    "localidad": "La Misión",
+    "latitud": 21.0993,
+    "longitud": -99.1224,
+    "cp": 42260,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 2,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Lolotla",
+    "localidad": "Lolotla",
+    "latitud": 20.840603,
+    "longitud": -98.717396,
+    "cp": 43140,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 2,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Hgo Ver",
+    "estado": "Hidalgo",
+    "municipio": "Metepec",
+    "localidad": "Metepec",
+    "latitud": 20.2385,
+    "longitud": -98.3212,
+    "cp": 43400,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 2,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Metztitlán",
+    "localidad": "Metztitlán",
+    "latitud": 20.5971,
+    "longitud": -98.763,
+    "cp": 43350,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 2,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Pachuca",
+    "estado": "Hidalgo",
+    "municipio": "Mineral de la Reforma",
+    "localidad": "Mineral de la Reforma (La Providencia)",
+    "latitud": 20.0645,
+    "longitud": -98.7173,
+    "cp": 42186,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 1,
+      "incendios": 2,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Atotonilco El Grande",
+    "estado": "Hidalgo",
+    "municipio": "Mineral del Chico",
+    "localidad": "Mineral del Chico (Cabecera Municipal)",
+    "latitud": 20.2157,
+    "longitud": -98.7315,
+    "cp": 42120,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 1,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Pachuca",
+    "estado": "Hidalgo",
+    "municipio": "Mineral del Monte",
+    "localidad": "Mineral del Monte (El Real)",
+    "latitud": 20.1405,
+    "longitud": -98.6722,
+    "cp": 42130,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Mixquiahuala de Juárez",
+    "localidad": "Mixquiahuala de Juárez",
+    "latitud": 20.23,
+    "longitud": -99.2146,
+    "cp": 42700,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Molango de Escamilla",
+    "localidad": "Molango de Escamilla",
+    "latitud": 20.7868,
+    "longitud": -98.7301,
+    "cp": 43100,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Nicolás Flores",
+    "localidad": "Nicolás Flores",
+    "latitud": 20.7683,
+    "longitud": -99.1506,
+    "cp": 42200,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 2,
+      "municipal": 40.00
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Nopala de Villagrán",
+    "localidad": "Nopala de Villagrán",
+    "latitud": 20.252,
+    "longitud": -99.6445,
+    "cp": 42470,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Atotonilco El Grande",
+    "estado": "Hidalgo",
+    "municipio": "Omitlán de Juárez",
+    "localidad": "Omitlán de Juárez",
+    "latitud": 20.17,
+    "longitud": -98.6493,
+    "cp": 43560,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 2,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Pachuca",
+    "estado": "Hidalgo",
+    "municipio": "Pachuca de Soto",
+    "localidad": "Pachuca de Soto",
+    "latitud": 20.1196,
+    "longitud": -98.7418,
+    "cp": 42060,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 2,
+      "incendios": 3,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Pacula",
+    "localidad": "Pacula",
+    "latitud": 21.0509,
+    "longitud": -99.2962,
+    "cp": 42240,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 2,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Pisaflores",
+    "localidad": "Pisaflores",
+    "latitud": 21.194,
+    "longitud": -99.0071,
+    "cp": 42220,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 3,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Progreso de Obregón",
+    "localidad": "Progreso de Obregón",
+    "latitud": 20.2468,
+    "longitud": -99.1917,
+    "cp": 42730,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 40.00
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "San Agustín Metzquititlán",
+    "localidad": "San Agustín Metzquititlán",
+    "latitud": 20.533235,
+    "longitud": -98.637668,
+    "cp": 43380,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Actopan",
+    "estado": "Hidalgo",
+    "municipio": "San Agustín Tlaxiaca",
+    "localidad": "San Agustín Tlaxiaca (Centro)",
+    "latitud": 20.1105,
+    "longitud": -98.8883,
+    "cp": 42165,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Actopan",
+    "estado": "Hidalgo",
+    "municipio": "San Agustín Tlaxiaca",
+    "localidad": "Tornacuxtla",
+    "latitud": 20.1523,
+    "longitud": -98.8709,
+    "cp": 42163,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Hgo Ver",
+    "estado": "Hidalgo",
+    "municipio": "San Bartolo Tutotepec",
+    "localidad": "San Bartolo Tutotepec",
+    "latitud": 20.3993,
+    "longitud": -98.2011,
+    "cp": 43440,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 2,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "San Felipe Orizatlán",
+    "localidad": "San Felipe Orizatlán",
+    "latitud": 21.171,
+    "longitud": -98.6081,
+    "cp": 43020,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "San Salvador",
+    "localidad": "Lagunilla",
+    "latitud": 20.3445,
+    "longitud": -99.0281,
+    "cp": 42644,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "San Salvador",
+    "localidad": "San Salvador",
+    "latitud": 20.2847,
+    "longitud": -99.0139,
+    "cp": 42640,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Santiago de Anaya",
+    "localidad": "Santiago de Anaya",
+    "latitud": 20.3822,
+    "longitud": -98.9633,
+    "cp": 42620,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Cuautepec",
+    "estado": "Hidalgo",
+    "municipio": "Santiago Tulantepec",
+    "localidad": "Santiago Tulantepec",
+    "latitud": 20.0399,
+    "longitud": -98.3667,
+    "cp": 43760,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tulancingo",
+    "estado": "Hidalgo",
+    "municipio": "Singuilucan",
+    "localidad": "El Susto",
+    "latitud": 20.0585,
+    "longitud": -98.4958,
+    "cp": 43790,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 4,
+      "municipal": 60.00
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Singuilucan",
+    "localidad": "Singuilucan",
+    "latitud": 19.9685,
+    "longitud": -98.518,
+    "cp": 43780,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 4,
+      "municipal": 60.00
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Tasquillo",
+    "localidad": "Tasquillo",
+    "latitud": 20.5499,
+    "longitud": -99.3119,
+    "cp": 42380,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 5,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Tecozautla",
+    "localidad": "Tecozautla",
+    "latitud": 20.5345,
+    "longitud": -99.6341,
+    "cp": 42440,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 1,
+      "incendios": 1,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Hgo Ver",
+    "estado": "Hidalgo",
+    "municipio": "Tenango de Doria",
+    "localidad": "Tenango de Doria",
+    "latitud": 20.3379,
+    "longitud": -98.2259,
+    "cp": 43480,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 2,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Tepeapulco",
+    "localidad": "Ciudad Sahagún",
+    "latitud": 19.7719,
+    "longitud": -98.5808,
+    "cp": 43990,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Tepeapulco",
+    "localidad": "Tepeapulco",
+    "latitud": 19.7856,
+    "longitud": -98.5534,
+    "cp": 43970,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Tepehuacán de Guerrero",
+    "localidad": "Tepehuacán de Guerrero",
+    "latitud": 21.0141,
+    "longitud": -98.843,
+    "cp": 43120,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Tepeji del Río de Ocampo",
+    "localidad": "Tepeji del Río de Ocampo",
+    "latitud": 19.905,
+    "longitud": -99.341,
+    "cp": 42854,
+    "riesgo": {
+      "sequia": 3,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 2,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 40.00
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Tepetitlán",
+    "localidad": "Tepetitlán",
+    "latitud": 20.1866,
+    "longitud": -99.3797,
+    "cp": 42920,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Tetepango",
+    "localidad": "Tetepango",
+    "latitud": 20.1026,
+    "longitud": -99.1578,
+    "cp": 42940,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Tezontepec de Aldama",
+    "localidad": "Tezontepec de Aldama",
+    "latitud": 20.193,
+    "longitud": -99.2732,
+    "cp": 42760,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 40.00
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Tianguistengo",
+    "localidad": "Tianguistengo",
+    "latitud": 20.7286,
+    "longitud": -98.6299,
+    "cp": 43270,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tizayuca",
+    "estado": "Hidalgo",
+    "municipio": "Tizayuca",
+    "localidad": "Huitzila",
+    "latitud": 19.8133,
+    "longitud": -98.9587,
+    "cp": 43820,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tizayuca",
+    "estado": "Hidalgo",
+    "municipio": "Tizayuca",
+    "localidad": "Tepojaco",
+    "latitud": 19.8386,
+    "longitud": -98.9458,
+    "cp": 43823,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tizayuca",
+    "estado": "Hidalgo",
+    "municipio": "Tizayuca",
+    "localidad": "Tizayuca",
+    "latitud": 19.8414,
+    "longitud": -98.9808,
+    "cp": 43808,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Tlahuelilpan",
+    "localidad": "Tlahuelilpan",
+    "latitud": 20.1318,
+    "longitud": -99.2326,
+    "cp": 42780,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Tlahuiltepa",
+    "localidad": "Tlahuiltepa",
+    "latitud": 20.922898,
+    "longitud": -98.950443,
+    "cp": 43170,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Tlanalapa",
+    "localidad": "Tlanalapa",
+    "latitud": 19.8183,
+    "longitud": -98.6032,
+    "cp": 43930,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Tlanchinol",
+    "localidad": "Tlanchinol",
+    "latitud": 20.9889,
+    "longitud": -98.6611,
+    "cp": 43150,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Tlaxcoapan",
+    "localidad": "Tlaxcoapan",
+    "latitud": 20.091,
+    "longitud": -99.2227,
+    "cp": 42950,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tizayuca",
+    "estado": "Hidalgo",
+    "municipio": "Tolcayuca",
+    "localidad": "Tolcayuca",
+    "latitud": 19.9576,
+    "longitud": -98.9222,
+    "cp": 43860,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Tula de Allende",
+    "localidad": "Cruz Azul",
+    "latitud": 19.9904,
+    "longitud": -99.3432,
+    "cp": 42840,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Tula de Allende",
+    "localidad": "Tula de Allende",
+    "latitud": 20.0553,
+    "longitud": -99.3264,
+    "cp": 42800,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 3,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tulancingo",
+    "estado": "Hidalgo",
+    "municipio": "Tulancingo de Bravo",
+    "localidad": "Jaltepec",
+    "latitud": 20.1141,
+    "longitud": -98.416,
+    "cp": 43700,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tulancingo",
+    "estado": "Hidalgo",
+    "municipio": "Tulancingo de Bravo",
+    "localidad": "Napateco",
+    "latitud": 20.1446,
+    "longitud": -98.3396,
+    "cp": 43629,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Hgo Ver",
+    "estado": "Hidalgo",
+    "municipio": "Tulancingo de Bravo",
+    "localidad": "Santa María Asunción",
+    "latitud": 20.1561,
+    "longitud": -98.2696,
+    "cp": 43710,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tulancingo",
+    "estado": "Hidalgo",
+    "municipio": "Tulancingo de Bravo",
+    "localidad": "Tulancingo (Centro)",
+    "latitud": 20.0829,
+    "longitud": -98.3647,
+    "cp": 43600,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tizayuca",
+    "estado": "Hidalgo",
+    "municipio": "Villa de Tezontepec",
+    "localidad": "Villa de Tezontepec",
+    "latitud": 19.8805,
+    "longitud": -98.8217,
+    "cp": 43880,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Xochiatipan",
+    "localidad": "Xochiatipan",
+    "latitud": 20.8351,
+    "longitud": -98.2848,
+    "cp": 43090,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Xochicoatlán",
+    "localidad": "Xochicoatlán",
+    "latitud": 20.77725,
+    "longitud": -98.67859,
+    "cp": 43250,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Yahualica",
+    "localidad": "Yahualica",
+    "latitud": 20.9501,
+    "longitud": -98.3823,
+    "cp": 43080,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Huejutla",
+    "vicaria": "Diócesis de Huejutla",
+    "estado": "Hidalgo",
+    "municipio": "Zacualtipán de Ángeles",
+    "localidad": "Zacualtipán de Ángeles",
+    "latitud": 20.645,
+    "longitud": -98.6538,
+    "cp": 43200,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 1,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tizayuca",
+    "estado": "Hidalgo",
+    "municipio": "Zapotlán de Juárez",
+    "localidad": "Zapotlán de Juárez",
+    "latitud": 19.974,
+    "longitud": -98.8611,
+    "cp": 42190,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 1,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Tizayuca",
+    "estado": "Hidalgo",
+    "municipio": "Zempoala",
+    "localidad": "City de Téllez (Estación Téllez)",
+    "latitud": 19.9809,
+    "longitud": -98.7887,
+    "cp": 43840,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 2,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Zempoala",
+    "localidad": "Santo Tomás",
+    "latitud": 19.9026,
+    "longitud": -98.5697,
+    "cp": 43850,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 2,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Apan",
+    "estado": "Hidalgo",
+    "municipio": "Zempoala",
+    "localidad": "Zempoala",
+    "latitud": 19.9153,
+    "longitud": -98.6704,
+    "cp": 43838,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 2,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 2,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tula",
+    "vicaria": "Diócesis de Tula",
+    "estado": "Hidalgo",
+    "municipio": "Zimapán",
+    "localidad": "Zimapán",
+    "latitud": 20.7382,
+    "longitud": -99.3825,
+    "cp": 42330,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 2,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Chignahuapan",
+    "estado": "Puebla",
+    "municipio": "Ahuazotepec",
+    "localidad": "Ahuazotepec",
+    "latitud": 20.047,
+    "longitud": -98.1637,
+    "cp": 73180,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 2,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 2,
+      "municipal": 57.14
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Chignahuapan",
+    "estado": "Puebla",
+    "municipio": "Aquixtla",
+    "localidad": "Aquixtla",
+    "latitud": 19.7958,
+    "longitud": -97.936,
+    "cp": 73620,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 3,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 1,
+      "incendios": 2,
+      "municipal": 45.71
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Huauchinango",
+    "estado": "Puebla",
+    "municipio": "Chiconcuautla",
+    "localidad": "Chiconcuautla",
+    "latitud": 20.0958,
+    "longitud": -97.9397,
+    "cp": 73320,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 2,
+      "torm_elec": 5,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 2,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Chignahuapan",
+    "estado": "Puebla",
+    "municipio": "Chignahuapan",
+    "localidad": "Chignahuapan",
+    "latitud": 19.8406,
+    "longitud": -98.031,
+    "cp": 73300,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 2,
+      "incendios": 3,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Cuautepec",
+    "estado": "Puebla",
+    "municipio": "Chignahuapan",
+    "localidad": "Paredón",
+    "latitud": 19.8683,
+    "longitud": -98.2504,
+    "cp": 73302,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 2,
+      "incendios": 3,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Chignahuapan",
+    "estado": "Puebla",
+    "municipio": "Chignahuapan",
+    "localidad": "Villa Cuauhtémoc",
+    "latitud": 19.7794,
+    "longitud": -98.0983,
+    "cp": 73300,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 2,
+      "incendios": 3,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Puebla",
+    "estado": "Puebla",
+    "municipio": "Honey",
+    "localidad": "Honey",
+    "latitud": 20.2385,
+    "longitud": -98.2114,
+    "cp": 73120,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 1,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Huauchinango",
+    "estado": "Puebla",
+    "municipio": "Huauchinango",
+    "localidad": "Huauchinango (Centro)",
+    "latitud": 20.1757,
+    "longitud": -98.0533,
+    "cp": 73160,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 5,
+      "bajas_temp": 2,
+      "torm_elec": 5,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 3,
+      "municipal": 62.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Huauchinango",
+    "estado": "Puebla",
+    "municipio": "Juan Galindo",
+    "localidad": "Nuevo Necaxa",
+    "latitud": 20.2124,
+    "longitud": -98.0021,
+    "cp": 73200,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 5,
+      "bajas_temp": 2,
+      "torm_elec": 5,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 60.00
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Huauchinango",
+    "estado": "Puebla",
+    "municipio": "Naupan",
+    "localidad": "Naupan",
+    "latitud": 20.2281,
+    "longitud": -98.1107,
+    "cp": 73140,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 5,
+      "bajas_temp": 2,
+      "torm_elec": 5,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 57.14
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Puebla",
+    "estado": "Puebla",
+    "municipio": "Pahuatlán",
+    "localidad": "Pahuatlán",
+    "latitud": 20.2755,
+    "longitud": -98.1503,
+    "cp": 73100,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 2,
+      "torm_elec": 5,
+      "ciclones": 3,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 57.14
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Puebla",
+    "estado": "Puebla",
+    "municipio": "Pahuatlán",
+    "localidad": "San Pablito",
+    "latitud": 20.3007,
+    "longitud": -98.1622,
+    "cp": 73110,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 2,
+      "torm_elec": 5,
+      "ciclones": 3,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 57.14
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Puebla",
+    "estado": "Puebla",
+    "municipio": "Pahuatlán",
+    "localidad": "Xolotla",
+    "latitud": 20.263,
+    "longitud": -98.1333,
+    "cp": 73100,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 1,
+      "torm_elec": 5,
+      "ciclones": 3,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 57.14
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Huauchinango",
+    "estado": "Puebla",
+    "municipio": "Tlacuilotepec",
+    "localidad": "Tlacuilotepec",
+    "latitud": 20.3259,
+    "longitud": -98.0687,
+    "cp": 73070,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 3,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 51.43
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Puebla",
+    "estado": "Puebla",
+    "municipio": "Tlaola",
+    "localidad": "Tlaola",
+    "latitud": 20.137,
+    "longitud": -97.9258,
+    "cp": 73220,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 3,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Puebla",
+    "estado": "Puebla",
+    "municipio": "Tlaxco",
+    "localidad": "Tlaxco",
+    "latitud": 20.4237,
+    "longitud": -98.0294,
+    "cp": 73060,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 3,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Huauchinango",
+    "estado": "Puebla",
+    "municipio": "Xicotepec de Juárez",
+    "localidad": "Villa Ávila Camacho (La Ceiba)",
+    "latitud": 20.3882,
+    "longitud": -97.8805,
+    "cp": 73090,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 3,
+      "inundaciones": 4,
+      "incendios": 1,
+      "municipal": 54.29
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Huauchinango",
+    "estado": "Puebla",
+    "municipio": "Xicotepec de Juárez",
+    "localidad": "Xicotepec de Juárez",
+    "latitud": 20.2751,
+    "longitud": -97.9585,
+    "cp": 73080,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 4,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 4,
+      "incendios": 2,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Huauchinango",
+    "estado": "Puebla",
+    "municipio": "Zihuateutla",
+    "localidad": "La Unión",
+    "latitud": 20.2645,
+    "longitud": -97.8775,
+    "cp": 73241,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Huauchinango",
+    "estado": "Puebla",
+    "municipio": "Zihuateutla",
+    "localidad": "Tenanguito",
+    "latitud": 20.3254,
+    "longitud": -97.7837,
+    "cp": 73255,
+    "riesgo": {
+      "sequia": 2,
+      "onda_calor": 3,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Hgo Ver",
+    "estado": "Veracruz",
+    "municipio": "Huayacocotla",
+    "localidad": "Huayacocotla",
+    "latitud": 20.537,
+    "longitud": -98.479,
+    "cp": 92600,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 48.57
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Hgo Ver",
+    "estado": "Veracruz",
+    "municipio": "Texcatepec",
+    "localidad": "Texcatepec",
+    "latitud": 20.5846,
+    "longitud": -98.3651,
+    "cp": 92640,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 3,
+      "bajas_temp": 1,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 3,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  },
+  {
+    "diocesis": "Tulancingo",
+    "vicaria": "Sierra Hgo Ver",
+    "estado": "Veracruz",
+    "municipio": "Zacualpan",
+    "localidad": "Zacualpan",
+    "latitud": 20.4347,
+    "longitud": -98.3503,
+    "cp": 92650,
+    "riesgo": {
+      "sequia": 1,
+      "onda_calor": 2,
+      "bajas_temp": 4,
+      "torm_elec": 4,
+      "ciclones": 2,
+      "inundaciones": 2,
+      "incendios": 1,
+      "municipal": 42.86
+    }
+  }
 ]
